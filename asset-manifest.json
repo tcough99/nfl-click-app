@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/nfl-click-app/static/css/main.e9746325.chunk.css",
+    "main.js": "/github.io/nfl-click-app/static/js/main.3a81321b.chunk.js",
+    "main.js.map": "/github.io/nfl-click-app/static/js/main.3a81321b.chunk.js.map",
+    "runtime-main.js": "/github.io/nfl-click-app/static/js/runtime-main.b372ca8e.js",
+    "runtime-main.js.map": "/github.io/nfl-click-app/static/js/runtime-main.b372ca8e.js.map",
+    "static/js/2.7cb6da34.chunk.js": "/github.io/nfl-click-app/static/js/2.7cb6da34.chunk.js",
+    "static/js/2.7cb6da34.chunk.js.map": "/github.io/nfl-click-app/static/js/2.7cb6da34.chunk.js.map",
+    "index.html": "/github.io/nfl-click-app/index.html",
+    "precache-manifest.5567ae92c61aed44605de68346ed1f5c.js": "/github.io/nfl-click-app/precache-manifest.5567ae92c61aed44605de68346ed1f5c.js",
+    "service-worker.js": "/github.io/nfl-click-app/service-worker.js",
+    "static/css/main.e9746325.chunk.css.map": "/github.io/nfl-click-app/static/css/main.e9746325.chunk.css.map",
+    "static/js/2.7cb6da34.chunk.js.LICENSE": "/github.io/nfl-click-app/static/js/2.7cb6da34.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b372ca8e.js",
+    "static/js/2.7cb6da34.chunk.js",
+    "static/css/main.e9746325.chunk.css",
+    "static/js/main.3a81321b.chunk.js"
+  ]
+}
