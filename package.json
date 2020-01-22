@@ -2,7 +2,7 @@
   "name": "nfl-clicky-game-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tcough99/nfl-click-app",
+  "homepage": "http://tcough99/github.io/nfl-click-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
