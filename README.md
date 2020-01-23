@@ -1,3 +1,10 @@
+In this app, I created a memory game with React. This assignment required mr to break up the application's UI into components, manage component state, and respond to user events. The theme of my click game was NFL Teams in anticipation for the super bowl. Enjoy!
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
